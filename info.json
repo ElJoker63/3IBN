@@ -1,9 +1,9 @@
 {
     "name": "Radio 3IBN",
     "apk": "1.1",
-    "versionupdate":"1.2",
+    "versionupdate":"1.1",
     "release": "23011901",
-    "releaseupdate": "23022701",
+    "releaseupdate": "23011901",
     "notifupdate": "PRESIONE <b>ACEPTAR</b> PARA DESCARGAR LA NUEVA ACTUALIZACIÓN",
     "notif": "",
     "notif1": "- Se ha agregado una pantalla de carga<br>- Se ha agregado control de volumen de la aplicación<br>- Optimización del servicio de streaming<br>- Optimización de la aplicación para evitar errores y cierres inesperados",
