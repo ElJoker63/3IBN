@@ -8,5 +8,6 @@
     "notif": "",
     "notif1": "- Se ha agregado una pantalla de carga<br>- Se ha agregado control de volumen de la aplicación<br>- Optimización del servicio de streaming<br>- Optimización de la aplicación para evitar errores y cierres inesperados",
     "title": "CAMBIOS",
-    "stream": "https://stream-42.zeno.fm/nepvk6iv8g1uv?zs=q5djmQJ-SDan0_M7fEeG0w"
+    "stream": "https://stream-42.zeno.fm/nepvk6iv8g1uv?zs=q5djmQJ-SDan0_M7fEeG0w",
+    "apkdownload":"https://raw.githubusercontent.com/ElJoker63/3IBN/main/Radio_3IBN.apk"
 }
